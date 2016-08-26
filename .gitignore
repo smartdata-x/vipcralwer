@@ -1,0 +1,7 @@
+venv
+*.pyc
+*.log
+*.txt
+test4all.py
+.idea
+*.pyo
